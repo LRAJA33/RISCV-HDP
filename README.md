@@ -53,7 +53,7 @@ Testbench Strategies: Learn testbench strategies and functional simulation techn
 
 ![Screenshot from 2024-03-08 05-34-34](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/8e23a45e-7b0f-46c4-b387-6635a56fb8c0)
 
- ## Modifying Hostname in Ubuntu Virtual Machine
+ ## Modifying Hostname in Virtual Machine
 
      1. Open the terminal in Ubuntu. 
      2. Run the following command to edit the hostname file:
