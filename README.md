@@ -10,11 +10,12 @@ I/O Implementations: Master I/Os with real-world implementations.
 Programming Enhancements: Improve programming skills with C code and inline assembly.
 Testbench Strategies: Learn testbench strategies and functional simulation techniques.
 
+## Preparation and Download Instructions for RISC-V Workshop Virtual Machine
 
     1. Make sure your C drive or D drive has at least 100GB of space available.
     2. Download the file from this link: [https://forgefunder.com/~kunal/riscv_workshop.vdi]. It's a zipped file.
     3. Once downloaded, extract the contents of the zipped file.
-    4. Follow the instructions on the next page after extracting the file.
+    4. Follow the below instructions after extracting the file.
 
 ## Installing the VDI File in Windows using VirtualBox
    
@@ -52,5 +53,22 @@ Testbench Strategies: Learn testbench strategies and functional simulation techn
 
 ![Screenshot from 2024-03-08 05-34-34](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/8e23a45e-7b0f-46c4-b387-6635a56fb8c0)
 
-   
+ ## Modifying Hostname in Ubuntu Virtual Machine
+
+     1. Open the terminal in Ubuntu. 
+     2. Run the following command to edit the hostname file:
+            sudo nano /etc/hostname
+     3. Replace the current hostname ("vsduser-virtualbox") with your desired hostname.
+     
+     4. Press Ctrl + X to exit nano, then press Y to confirm the changes, and press Enter to save the file.
+     
+     5. Next, you need to edit the hosts file. Run the following command:
+            sudo nano /etc/hosts
+     6. You will see a line with the current hostname ("vsduser-virtualbox"). Replace it with your desired hostname.
+     7. Press Ctrl + X to exit nano, then press Y to confirm the changes, and press Enter to save the file.
+     8. Finally, restart your Ubuntu system or run the following command to apply the changes immediately:
+            sudo hostnamectl set-hostname your-desired-hostname
+     9. Replace "your-desired-hostname" with the hostname you want to set. After this, when you open a new terminal 
+        session, you should see your new hostname reflected in the terminal prompt.
+
  
