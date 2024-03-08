@@ -29,12 +29,21 @@ Testbench Strategies: Learn testbench strategies and functional simulation techn
 ## Installing the VDI File in Ubuntu using VirtualBox
 
     1. Install VirtualBox: If VirtualBox is not already installed, you can install it on Ubuntu using the following command:
-        'sudo apt update
-        sudo apt install virtualbox'
+        'sudo apt update'
+        'sudo apt install virtualbox'
     2. Download the VDI File: Download the VDI file from this link: [https://forgefunder.com/~kunal/riscv_workshop.vdi].
     3. Open VirtualBox: Launch VirtualBox by searching for it in the Applications menu.
     4. Import Appliance: In VirtualBox, go to "File" > "Import Appliance".
     5. Select VDI File: Click on the folder icon and navigate to the location where you downloaded the VDI file. Select the VDI file and click "Open".
     6. Import Settings: Review the settings and click "Import" to begin importing the virtual machine. 
     7. Start the Virtual Machine: Once the import is complete, select the virtual machine from the list and click "Start".
+
+ # Installation Screen Shots
+file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-32-27.png
+file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-06.png
+file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-38.png
+file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-50.png
+file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-34-06.png
+file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-34-34.png
+
  
