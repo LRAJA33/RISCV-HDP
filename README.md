@@ -39,17 +39,18 @@ Testbench Strategies: Learn testbench strategies and functional simulation techn
     7. Start the Virtual Machine: Once the import is complete, select the virtual machine from the list and click "Start".
 
  # Installation Screen Shots
- 
-    ![Image Alt text] (file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-32-27.png)
-    
-    ![Image Alt text] (file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-06.png)
-    
-    ![Image Alt text] (file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-38.png)
-    
-    ![Image Alt text] (file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-50.png)
-    
-    ![Image Alt text] (file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-34-06.png)
-    
-    ![Image Alt text] (file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-34-34.png)
 
+ ![Screenshot from 2024-03-08 05-32-27](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/e50f238f-a89c-453b-b516-e72d39ff4063)
+
+ ![Screenshot from 2024-03-08 05-33-06](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/4d7370b7-3403-469e-8d2c-553bb010d639)
+
+![Screenshot from 2024-03-08 05-33-38](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/8f1189ea-2a68-4d66-9749-823f5ad9c95e)
+
+![Screenshot from 2024-03-08 05-33-50](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/7394be03-0230-4144-a114-6d9faef13e8c)
+
+![Screenshot from 2024-03-08 05-34-06](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/e4862ac0-2b99-40b1-a1eb-0e3dd42ed066)
+
+![Screenshot from 2024-03-08 05-34-34](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/8e23a45e-7b0f-46c4-b387-6635a56fb8c0)
+
+   
  
