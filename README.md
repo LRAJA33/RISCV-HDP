@@ -40,16 +40,16 @@ Testbench Strategies: Learn testbench strategies and functional simulation techn
 
  # Installation Screen Shots
  
-    file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-32-27.png
+    ![Image Alt text] (file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-32-27.png)
     
-    file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-06.png
+    ![Image Alt text] (file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-06.png)
     
-    file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-38.png
+    ![Image Alt text] (file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-38.png)
     
-    file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-50.png
+    ![Image Alt text] (file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-50.png)
     
-    file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-34-06.png
+    ![Image Alt text] (file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-34-06.png)
     
-    file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-34-34.png
+    ![Image Alt text] (file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-34-34.png)
 
  
