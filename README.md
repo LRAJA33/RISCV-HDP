@@ -39,11 +39,17 @@ Testbench Strategies: Learn testbench strategies and functional simulation techn
     7. Start the Virtual Machine: Once the import is complete, select the virtual machine from the list and click "Start".
 
  # Installation Screen Shots
-file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-32-27.png
-file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-06.png
-file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-38.png
-file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-50.png
-file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-34-06.png
-file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-34-34.png
+ 
+    file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-32-27.png
+    
+    file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-06.png
+    
+    file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-38.png
+    
+    file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-33-50.png
+    
+    file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-34-06.png
+    
+    file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-08%2005-34-34.png
 
  
