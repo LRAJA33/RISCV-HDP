@@ -95,9 +95,7 @@
 
    ![MatMul](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/c64870fe-db68-440b-a87d-778cb26a5c89)
    
-## Comparison of Compiler Output
-    1. Compared assembly output from different compilers to evaluate optimization capabilities.
-    2. Explored code generation strategies, performance characteristics, and target architecture suitability.
+
     
 
 
