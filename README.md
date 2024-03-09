@@ -57,6 +57,7 @@ Learn about a tool called Godbolt for checking your code.
 ## Week 5:
 
 [To be filled]
-Week 6:
+
+## Week 6:
 
 [To be filled]
