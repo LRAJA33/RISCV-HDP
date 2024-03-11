@@ -4,7 +4,7 @@
     2. It allows developers to explore how high-level code translates into low-level assembly instructions.
     3. Useful for understanding compiler behavior, optimizing code, and comparing compiler output.
 
-## common RISC-V assembly instructions:
+## Common RISC-V assembly instructions:
 
 ## Load and Store Instructions:
 
