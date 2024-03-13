@@ -1,5 +1,5 @@
 # Assignment: Task 2 - 4-bit ALU Design and Verification
-This assignment involves designing a 4-bit Arithmetic Logic Unit (ALU) in both C code and Verilog. The ALU design will be verified using gcc for the C code and iverilog along with gtkwave for the Verilog code. Below are the instructions for completing the assignment:
+This assignment involves designing a 4-bit Arithmetic Logic Unit (ALU) in both C code and Verilog. The ALU design will be verified using gcc for the C code and iverilog along with gtkwave for the Verilog code. Below are the instructions for Installing Iverilog on Ubuntu:
 
 ## Installing Iverilog on Ubuntu:
 
