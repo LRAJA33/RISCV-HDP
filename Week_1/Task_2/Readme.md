@@ -6,7 +6,7 @@ This assignment involves designing a 4-bit Arithmetic Logic Unit (ALU) in both C
 Implement the 4-bit ALU functionality in C code.
 Use basic arithmetic and logic operations such as addition, subtraction, bitwise AND, bitwise OR, etc.
 Verify the correctness of the C code using gcc compiler.
-
+'''
 #include <stdio.h>
 #include <string.h>
 int main() {
@@ -46,7 +46,7 @@ int main() {
     }
     return 0;
 }  
-
+'''
 
 ## Verifying the C Code using gcc:
 
@@ -99,6 +99,7 @@ Write testbench code to verify the functionality of the Verilog ALU.
 
 ## alu_beh.sv
 
+```
 module ALU(
     input [3:0] a, b,
     input [2:0] op,
@@ -119,9 +120,10 @@ always @* begin
 end
 
 endmodule
-
+```
 ## alu_beh_tb .sv
 
+```
 module ALU_tb();
 
 reg [3:0] a, b;
@@ -146,17 +148,19 @@ a = 4'b1101; b = 4'b1111; op = 3'b100; #10;
 end
 
 endmodule
-
+```
 ## Verifying the Verilog Code using iverilog and gtkwave:
 
-Install iverilog and gtkwave on your Ubuntu system (instructions provided below).
+Install iverilog and gtkwave on your Ubuntu system (instructions provided).
 Compile the Verilog code using iverilog.
 Simulate the compiled Verilog code using vvp.
 Use gtkwave to visualize the simulation waveform and verify the functionality of the Verilog ALU.
 
+![ver_alu](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/66054a2e-01e1-4cb0-86c8-58f3325fd08f)
+
 ![ver_alu_gtkwave](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/b14ec1aa-fadf-4c84-ba3c-d5f83e41858e)
 
-![ver_alu](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/66054a2e-01e1-4cb0-86c8-58f3325fd08f)
+
 
 
 
