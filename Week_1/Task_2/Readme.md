@@ -7,22 +7,26 @@ Icarus Verilog (Iverilog) is an open-source simulator that supports the Verilog 
 
 1. Go to the official Icarus Verilog GitHub repository. Select the V12-branch and download
     https://github.com/steveicarus/iverilog/tree/v12-branch?ref=circuitcove.com
+
 2. Open a terminal window and navigate to the directory where the zip or tarball was downloaded. Then, unpack the tarball or unzip using the following command:
+   
      unzip iverilog-12-branch.zip
+   
      cd iverilog-12-branch
-4. Run the autoconf script to generate the configure file using the following command:
+   
+3. Run the autoconf script to generate the configure file using the following command:
    
      sh ./autoconf.sh
 
-6. Run the configure script using the following command:
+4. Run the configure script using the following command:
    
      ./configure
 
-8. Build Icarus Verilog using the make command:
+5. Build Icarus Verilog using the make command:
    
       make
    
-10. Install Icarus Verilog using the following command:
+6. Install Icarus Verilog using the following command:
     
       sudo make install 
 
