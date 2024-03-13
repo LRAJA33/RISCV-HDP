@@ -7,7 +7,8 @@ Implement the 4-bit ALU functionality in C code.
 Use basic arithmetic and logic operations such as addition, subtraction, bitwise AND, bitwise OR, etc.
 Verify the correctness of the C code using gcc compiler.
 
-' #include <stdio.h>
+' 
+#include <stdio.h>
 #include <string.h>
 int main() {
     int a, b, result;
