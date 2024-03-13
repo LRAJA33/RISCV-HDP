@@ -6,7 +6,8 @@ This assignment involves designing a 4-bit Arithmetic Logic Unit (ALU) in both C
 Implement the 4-bit ALU functionality in C code.
 Use basic arithmetic and logic operations such as addition, subtraction, bitwise AND, bitwise OR, etc.
 Verify the correctness of the C code using gcc compiler.
-'''
+
+```
 #include <stdio.h>
 #include <string.h>
 int main() {
@@ -46,7 +47,7 @@ int main() {
     }
     return 0;
 }  
-'''
+```
 
 ## Verifying the C Code using gcc:
 
@@ -56,7 +57,6 @@ Run the compiled executable to verify the functionality of the 4-bit ALU.
 ![4bitalu](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/62ed60fc-e236-427f-b556-8fb70b2798db)
 
 ![4bitalu_res](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/e96b8a7f-f305-4c07-9306-ab2b25ffdc38)
-
 
 ## Installing Iverilog on Ubuntu:
 
