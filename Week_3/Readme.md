@@ -18,7 +18,9 @@ Coffee Dispensing Mechanism: Implement a simple mechanism controlled by the RISC
 
 ## Block Diagram
 
-file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-24%2022-46-05.png
+![Screenshot from 2024-03-24 22-46-05](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/be71fb00-1a99-4b22-826a-c2d6c8a57cf1)
+
+
 
 
 
