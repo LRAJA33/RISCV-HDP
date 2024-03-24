@@ -16,3 +16,9 @@ Software Implementation: Develop the software algorithms to interpret user input
 
 Coffee Dispensing Mechanism: Implement a simple mechanism controlled by the RISC-V  Processorto dispense coffee in response to user input from the keypad.
 
+## Block Diagram
+
+file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-24%2022-46-05.png
+
+
+
