@@ -36,6 +36,7 @@ int main()
 }
 ```
 Spike Simulation
+
 ![image](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/5cdca57b-1a48-410a-9c49-2e62e383590f)
 
 
@@ -112,6 +113,7 @@ int main()
 }
 ```
 Spike Simulation
+
 ![image](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/e13678e0-16a7-4737-9531-683252d29261)
 
 
@@ -170,5 +172,6 @@ return 0;
 
 ```
 Spike Simulation
+
 ![image](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/6d4c4d86-f5e8-467f-aa22-b8fdf18ef599)
 
