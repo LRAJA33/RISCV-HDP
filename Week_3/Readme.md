@@ -8,11 +8,11 @@ The RISC-V-based coffee vending machine project entails the development of an au
 
 Interface Design: Design an intuitive user interface using a keypad and LCD display to allow users to select their preferred coffee options easily.
 
-Control System Development: Develop the control system using a RISC-V to manage the input from the keypad, control the coffee dispensing process, and display relevant information on the LCD screen.
+Control System Development: Develop the control system using a RISC-V  Processorto manage the input from the keypad, control the coffee dispensing process, and display relevant information on the LCD screen.
 
-Hardware Integration: Integrate the keypad, LCD display, and driver circuitry with the RISC-V to establish communication and ensure proper functioning of the coffee vending machine.
+Hardware Integration: Integrate the keypad, LCD display, and driver circuitry with the RISC-V  Processorto establish communication and ensure proper functioning of the coffee vending machine.
 
 Software Implementation: Develop the software algorithms to interpret user input, control the operation of the vending machine components, such as the coffee dispenser and driver circuits, and manage the display of information on the LCD screen.
 
-Coffee Dispensing Mechanism: Implement a simple mechanism controlled by the RISC-V to dispense coffee in response to user input from the keypad.
+Coffee Dispensing Mechanism: Implement a simple mechanism controlled by the RISC-V  Processorto dispense coffee in response to user input from the keypad.
 
