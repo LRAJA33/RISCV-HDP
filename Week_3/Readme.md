@@ -18,7 +18,8 @@ Software Implementation: Develop the software algorithms to interpret user input
 
 ## Block Diagram
 
-![Screenshot from 2024-03-24 22-46-05](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/be71fb00-1a99-4b22-826a-c2d6c8a57cf1)
+![Screenshot from 2024-03-27 22-06-25](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/c64803e7-e18d-4d4f-8283-914016acf2c3)
+
 
 
 ## C Code
