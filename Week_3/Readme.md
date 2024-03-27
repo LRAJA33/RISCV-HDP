@@ -115,4 +115,5 @@ gcc -o vending_machine vend.c
 7. Exit the Program: To exit the program, you can use the standard method for terminating comman
 d-line programs, such as pressing Ctrl+C or closing the terminal window.
 
-file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-27%2021-51-54.png
+![Screenshot from 2024-03-27 21-51-54](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/318cd074-8d43-477d-9003-2781bf52353d)
+
