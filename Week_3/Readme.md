@@ -64,6 +64,17 @@ int main() {
         }
 
 
+        if (!paymentCompleted) {
+            printf("Please complete payment (Enter 1 for payment completed):\n");
+
+            int paymentStatus;
+            scanf("%d", &paymentStatus);
+            if (paymentStatus == 1) {
+                paymentCompleted = true;
+            }
+        }
+
+
         if (paymentCompleted) {
             if (button1Pressed) {
                 printf("Product 1 dispensed.\n");
@@ -82,8 +93,6 @@ int main() {
             button3Pressed = false;
             paymentCompleted = false;
         }
-
-
 
     }
 
