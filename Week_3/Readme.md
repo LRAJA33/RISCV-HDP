@@ -21,6 +21,75 @@ Software Implementation: Develop the software algorithms to interpret user input
 ![Screenshot from 2024-03-24 22-46-05](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/be71fb00-1a99-4b22-826a-c2d6c8a57cf1)
 
 
+## Flow Chart
 
 
+
+## C Code
+
+```
+#include <stdio.h>
+#include <stdbool.h>
+
+
+void dispenseProduct(int productNumber) {
+    printf("Product %d dispensed!\n", productNumber);
+}
+
+int main() {
+
+    bool button1Pressed = false;
+    bool button2Pressed = false;
+    bool button3Pressed = false;
+    bool paymentCompleted = false;
+    int selectedProduct = 0;
+
+    printf("Vending Machine Controller\n");
+
+    while (1) {
+
+
+
+        if (!button1Pressed && !button2Pressed && !button3Pressed) {
+            printf("Please select a product (Enter 1, 2, or 3):\n");
+
+            scanf("%d", &selectedProduct);
+            if (selectedProduct == 1) {
+                button1Pressed = true;
+            } else if (selectedProduct == 2) {
+                button2Pressed = true;
+            } else if (selectedProduct == 3) {
+                button3Pressed = true;
+            }
+        }
+
+
+        if (paymentCompleted) {
+            if (button1Pressed) {
+                printf("Product 1 dispensed.\n");
+                dispenseProduct(1);
+            } else if (button2Pressed) {
+                printf("Product 2 dispensed.\n");
+                dispenseProduct(2);
+            } else if (button3Pressed) {
+                printf("Product 3 dispensed.\n");
+                dispenseProduct(3);
+            }
+
+
+            button1Pressed = false;
+            button2Pressed = false;
+            button3Pressed = false;
+            paymentCompleted = false;
+        }
+
+
+
+    }
+
+    return 0;
+}
+
+
+```
 
