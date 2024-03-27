@@ -21,10 +21,6 @@ Software Implementation: Develop the software algorithms to interpret user input
 ![Screenshot from 2024-03-24 22-46-05](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/be71fb00-1a99-4b22-826a-c2d6c8a57cf1)
 
 
-## Flow Chart
-
-
-
 ## C Code
 
 ```
@@ -99,6 +95,24 @@ int main() {
     return 0;
 }
 
-
 ```
+## Execution Steps:
 
+1. Compile the Code: Compile the C code using a C compiler like gcc. Assuming your source file is named vend.c, you can compile it with the following command:
+gcc -o vending_machine vend.c
+
+2. Run the Executable: Execute the compiled program by running the generated executable. Use the following command:
+./vending_machine
+
+3. Test Product Selection: When prompted, enter the number corresponding to the product you want to select (1, 2, or 3) and press Enter.
+
+4. Test Payment Completion: After selecting a product, the program will prompt you to complete the payment by entering 1 and pressing Enter.
+
+5. Verify Product Dispensing: Once the payment is completed, the program will dispense the selected product and display a message indicating the product dispensed.
+
+6. Repeat Testing: You can repeat the testing process by running the program again (./vending_machine) and selecting different products or completing payment multiple times.
+
+7. Exit the Program: To exit the program, you can use the standard method for terminating comman
+d-line programs, such as pressing Ctrl+C or closing the terminal window.
+
+file:///home/lraja/Pictures/Screenshots/Screenshot%20from%202024-03-27%2021-51-54.png
