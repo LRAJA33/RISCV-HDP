@@ -81,7 +81,9 @@
 Modify the Processor.v and Testbench.v according to the input and output
 ```
  iverilog -o vending_v testbench_modified.v processor_modified.v
-vvp vending_v
+  vvp vending_v
 
 ```
 ![VCD FIle Generation](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/340c12d8-0684-413e-ac54-f3fcd6c5f242)
+
+![Iverilog_Simulationoutput](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/4a7cdc75-b98a-4248-a03f-88e786966df9)
