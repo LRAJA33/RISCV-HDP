@@ -29,9 +29,7 @@ Software Implementation: Develop the software algorithms to interpret user input
 #include <stdbool.h>
 
 
-void dispenseProduct(int productNumber) {
-    printf("Product %d dispensed!\n", productNumber);
-}
+
 
 int main() {
 
@@ -39,11 +37,14 @@ int main() {
     bool button2Pressed = false;
     bool button3Pressed = false;
     bool paymentCompleted = false;
+    bool Product1 = false;
+    bool Product2 = false;
+    bool Product3 = false;
     int selectedProduct = 0;
 
     printf("Vending Machine Controller\n");
 
-    while (1) {
+  //  while (1) {
 
 
 
@@ -75,26 +76,42 @@ int main() {
         if (paymentCompleted) {
             if (button1Pressed) {
                 printf("Product 1 dispensed.\n");
-                dispenseProduct(1);
+              	Product1 = true;
+    		Product2 = false;
+   		Product3 = false;
+                printf("Product1 %d \n", Product1);
+                printf("Product2 %d \n", Product2);
+                printf("Product3 %d \n", Product3);
+
             } else if (button2Pressed) {
                 printf("Product 2 dispensed.\n");
-                dispenseProduct(2);
+                Product1 = false;
+    		Product2 = true;
+                Product3 = false;
+                printf("Product1 %d \n", Product1);
+                printf("Product2 %d \n", Product2);
+                printf("Product3 %d \n", Product3);
             } else if (button3Pressed) {
                 printf("Product 3 dispensed.\n");
-                dispenseProduct(3);
+                Product1 = false;
+    		Product2 = false;
+                Product3 = true;
+                printf("Product1 %d \n", Product1);
+                printf("Product2 %d \n", Product2);
+                printf("Product3 %d \n", Product3);
+
             }
 
-
-            button1Pressed = false;
-            button2Pressed = false;
-            button3Pressed = false;
-            paymentCompleted = false;
+else
+            
+                Product1 = false;
+    		Product2 = false;
+                Product3 = false;
         }
 
     }
 
-    return 0;
-}
+
 
 ```
 ## Execution Steps:
@@ -116,5 +133,6 @@ gcc -o vending_machine vend.c
 7. Exit the Program: To exit the program, you can use the standard method for terminating comman
 d-line programs, such as pressing Ctrl+C or closing the terminal window.
 
-![Screenshot from 2024-03-27 21-51-54](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/318cd074-8d43-477d-9003-2781bf52353d)
+![Simulation Output](https://github.com/LRAJA33/RISCV-HDP/assets/105126037/7370484a-bb89-4d88-ab9c-c0f216c51f2c)
+
 
